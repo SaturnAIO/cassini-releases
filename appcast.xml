@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Cassini</title>
+        <language>en</language>
+        <item>
+            <title>Version 0.0.1</title>
+            <pubDate>Wed, 11 Nov 2026 17:48:56 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Improvements and fixes.</li></ul>]]></description>
+            <enclosure url="https://github.com/SaturnAIO/cassini-releases/releases/download/v0.0.1/Cassini-0.0.1.dmg" type="application/octet-stream" sparkle:edSignature="XwVEvdYYfMnNPaEH8dnfT324t02nirSdTd543UKEPfk/cDLYDNpV7PzR2SV5SN+EMVi+7h3CF2eWQKrZdO6aCg==" length="15948351" />
+        </item>
+    </channel>
+</rss>
