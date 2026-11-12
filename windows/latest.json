@@ -1,8 +1,9 @@
 {
   "version": "0.0.1",
-  "released": "2026-11-12T06:40:49.886Z",
+  "released": "2026-11-12T08:39:05.669Z",
   "download": "https://cassini.saturnaio.com/windows/download",
   "notes": [
+    "Brightness changes on external monitors (Twinkle Tray, Monitorian or the monitor buttons) now show on the island.",
     "Improvements and fixes."
   ]
 }
