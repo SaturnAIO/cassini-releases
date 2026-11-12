@@ -5,12 +5,12 @@
         <language>en</language>
         <item>
             <title>Version 0.0.1</title>
-            <pubDate>Wed, 11 Nov 2026 17:48:56 +0700</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Thu, 12 Nov 2026 14:50:26 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Improvements and fixes.</li></ul>]]></description>
-            <enclosure url="https://github.com/SaturnAIO/cassini-releases/releases/download/v0.0.1/Cassini-0.0.1.dmg" type="application/octet-stream" sparkle:edSignature="XwVEvdYYfMnNPaEH8dnfT324t02nirSdTd543UKEPfk/cDLYDNpV7PzR2SV5SN+EMVi+7h3CF2eWQKrZdO6aCg==" length="15948351" />
+            <description><![CDATA[<ul><li>Brightness changes made through BetterDisplay now show on the island, like the volume.</li><li>Improvements and fixes.</li></ul>]]></description>
+            <enclosure url="https://github.com/SaturnAIO/cassini-releases/releases/download/v0.0.1/Cassini-0.0.1.dmg" type="application/octet-stream" sparkle:edSignature="cMc4lWwbbnIZlp+Bt3GKufWQcapW/23/McPaWoujfejlWnUqaw9ieJj53ayqKDe07aZ86av1iZxYQkOmmWwvBg==" length="15958826" />
         </item>
     </channel>
 </rss>
