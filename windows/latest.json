@@ -1,10 +1,12 @@
 {
   "version": "0.0.1",
-  "released": "2026-11-12T08:53:58.107Z",
+  "released": "2026-11-12T09:20:09.621Z",
   "download": "https://cassini.saturnaio.com/windows/download",
   "notes": [
-    "Zoom meetings are detected from the meeting window or Zoom using the microphone, not only while sharing the screen.",
-    "Meeting notes are written down while the meeting goes, as on the Mac.",
-    "Brightness changes on external monitors (Twinkle Tray, Monitorian or the monitor buttons) now show on the island."
+    "The island comes back when Cassini is opened again, even after its window was closed or hidden.",
+    "Meeting notes work on a PC without the Visual C++ runtime: the speech tool now carries what it needs.",
+    "The newest words show on the island while taking notes.",
+    "Zoom meetings are detected from the meeting window or Zoom using the microphone.",
+    "Brightness changes on external monitors now show on the island."
   ]
 }
