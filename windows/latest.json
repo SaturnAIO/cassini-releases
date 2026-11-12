@@ -1,9 +1,10 @@
 {
   "version": "0.0.1",
-  "released": "2026-11-12T08:39:05.669Z",
+  "released": "2026-11-12T08:53:58.107Z",
   "download": "https://cassini.saturnaio.com/windows/download",
   "notes": [
-    "Brightness changes on external monitors (Twinkle Tray, Monitorian or the monitor buttons) now show on the island.",
-    "Improvements and fixes."
+    "Zoom meetings are detected from the meeting window or Zoom using the microphone, not only while sharing the screen.",
+    "Meeting notes are written down while the meeting goes, as on the Mac.",
+    "Brightness changes on external monitors (Twinkle Tray, Monitorian or the monitor buttons) now show on the island."
   ]
 }
