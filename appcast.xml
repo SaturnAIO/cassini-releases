@@ -5,12 +5,12 @@
         <language>en</language>
         <item>
             <title>Version 0.0.1</title>
-            <pubDate>Thu, 12 Nov 2026 14:50:26 +0700</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <pubDate>Fri, 13 Nov 2026 18:00:41 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Brightness changes made through BetterDisplay now show on the island, like the volume.</li><li>Improvements and fixes.</li></ul>]]></description>
-            <enclosure url="https://github.com/SaturnAIO/cassini-releases/releases/download/v0.0.1/Cassini-0.0.1.dmg" type="application/octet-stream" sparkle:edSignature="cMc4lWwbbnIZlp+Bt3GKufWQcapW/23/McPaWoujfejlWnUqaw9ieJj53ayqKDe07aZ86av1iZxYQkOmmWwvBg==" length="15958826" />
+            <description><![CDATA[<ul><li>Dock Peek: hover an app in the Dock to see its windows, styled like the island, with quick controls.</li><li>Activating a license works on every network: some Indonesian providers blocked the license server&#x27;s old address.</li><li>Brightness changes made through BetterDisplay now show on the island, like the volume.</li><li>Improvements and fixes.</li></ul>]]></description>
+            <enclosure url="https://github.com/SaturnAIO/cassini-releases/releases/download/v0.0.1/Cassini-0.0.1.dmg" type="application/octet-stream" sparkle:edSignature="okT6+lzuws1HthQsxK0bo0mjyGmYfpj01S+1qP4Ii+8CyTRGnmNNn4hYr2gzr69fKzhnSY4qKn13rRY/y1isCA==" length="16273439" />
         </item>
     </channel>
 </rss>
